@@ -1,4 +1,4 @@
-# node-hipchatbot
+# node-hipchatbot-basic
 A very basic set of instructions for creating custom slash command intergrations in Hipchat using node.js. 
 
 #### Install dependencies
